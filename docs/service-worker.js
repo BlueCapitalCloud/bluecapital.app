@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c297b710e2e26b0dd8dc0e50c8f78877.js"
+  "/precache-manifest.2dbe7ee8065a7e19da2ab0faf7c10999.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bluecapitallapp-frontend"});
